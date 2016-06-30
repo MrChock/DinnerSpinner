@@ -3,18 +3,22 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
   <title>JS Bin</title>
 </head>
 <body>
   <div class="title">Dinner Spinner!</div>  
   
+  <button type="button"
+onclick="pickTopping()"
+Click me to create a weekly menu.</button>
   
 <div id="week">
   <div class="day" id="Monday">
     <div class="name">Monday</div>
-    <div class="main">Kalua Pig</div>
+    <div class="main" id="MondayMain">Kalua Pig</div>
     <div class="ampersand">&</div>
-    <div class="side">Mac Salad</div>
+    <div class="side" id="MondaySide">Mac Salad</div>
   </div>
   <div class="day" id="Tuesday">
     <div class="name">Tuesday</div>
