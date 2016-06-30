@@ -2,7 +2,7 @@
 "Grilled Salmon", "Shrimp Scampi" , "Kalua Pig"];
 
 var Side_Dish = ["Rice", "Mash Potato", "Salad", "Grilled Veggies", 
-"Poi", "Lomi Salmon", "Creamed Spinach", "Mac Salad"];
+"Poi", "Lomi Salmon", "Creamed Spinach", "Mac Salad", "Steamed Veggies"];
 
 
 function pickTopping(){

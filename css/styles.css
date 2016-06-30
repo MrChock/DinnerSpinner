@@ -5,22 +5,24 @@ body{
 }
 
 div#Button{
-  margin:50px;
+margin:50px;
 text-align:center;
+
 }
 
 div.title{
   font-size:300%;
   background:grey;
-  margin:-20px;
+  margin-top:-20px;
   padding-top:50px;
   padding-bottom:25px;
   color:black;
 }
 div#week{
   padding-top:10px;
-  width:700px;
+  width:610px;
   display:inline-block;
+  text-align:center;
 }
 
 div.day{
